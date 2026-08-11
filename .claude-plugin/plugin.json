@@ -1,0 +1,17 @@
+{
+  "name": "single-threaded-owner",
+  "version": "1.0.0",
+  "description": "Defines one accountable owner, authority boundary, measures, interfaces, and escalation path. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/single-threaded-owner",
+  "repository": "https://github.com/andrewluxem/single-threaded-owner",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "single-threaded-owner",
+    "ownership-charter"
+  ]
+}

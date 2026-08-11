@@ -1,0 +1,23 @@
+{
+  "name": "single-threaded-owner",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Defines one accountable owner, authority boundary, measures, interfaces, and escalation path. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "single-threaded-owner",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Defines one accountable owner, authority boundary, measures, interfaces, and escalation path. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "single-threaded-owner",
+        "ownership-charter"
+      ]
+    }
+  ]
+}
